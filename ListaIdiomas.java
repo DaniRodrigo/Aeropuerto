@@ -1,0 +1,3 @@
+package Aeropuerto;
+
+public enum ListaIdiomas {CASTELLANO, INGLES, FRANCES, ALEMAN, ITALIANO, HOLANDES, RUSO, CHINO, JAPONES, PORTUGUES}
